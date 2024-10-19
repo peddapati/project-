@@ -61,17 +61,17 @@ main {
 
 /* Example CSS for a default placeholder image */
 .profiles a:nth-of-type(1)::before {
-    background-image: url('img1.png');
+    background-image: url('../assests/img1.png');
 }
 
 .profiles a:nth-of-type(2)::before {
-    background-image: url('img3.jpg');
+    background-image: url('../assests/img3.jpg');
 }
 
 .profiles a:nth-of-type(3)::before {
-    background-image: url('bambubody.jpg');
+    background-image: url('../assests/bambubody.jpg');
 }
 
 .profiles a:nth-of-type(4)::before {
-    background-image: url('img2.jpg');
+    background-image: url('../assests/img2.jpg');
 }
